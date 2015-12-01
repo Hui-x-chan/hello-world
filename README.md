@@ -1,3 +1,4 @@
 # hello-world
 test
-* une ligne de code
+* une ligne de _code_
+* LOL
